@@ -2,4 +2,4 @@
 Perform text classification into five distinct classes using the Stanford Sentiment Treebank (SST) dataset. Approaches: Naive Bayes and Logistic Regression
 we used gradient desent as well
 
-## Link for dataset : https://huggingface.co/datasets/sst
+## Dataset Link : https://huggingface.co/datasets/sst
