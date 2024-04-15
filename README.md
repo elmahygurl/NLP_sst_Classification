@@ -45,4 +45,6 @@ Finally, we compared our evaluation metrics with those obtained using scikit-lea
 - Stochasticity: Data will be shuffled every epoch to enforce the stochasticity of the SGD.
 - Vectorized Calculations: Implementations is batched and vectorized for efficient calculations.
 
-
+## Authors 
+- [Nada Zayed](https://github.com/nadaz10)
+- [Salma ElMahy](https://github.com/elmahygurl)
